@@ -1,16 +1,18 @@
-### Hi there 👋
+# Hello 👋
+My name is Diego Savoia and I'm a graduate student at [Politecnico di Milano](https://www.polimi.it/en/index.html). I'm always interested in newest technologies, especially related to the fields of Artificial Intelligence, Machine Learning and Data Science.
 
-<!--
-**savoiadiego/savoiadiego** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## :memo: Contacts
+You can find me on [LinkedIn](https://www.linkedin.com/in/diegosavoia/).
 
-Here are some ideas to get you started:
+## :wrench: Tools and Languages
+![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=windows&logoColor=white&color=blue)
+![](https://img.shields.io/badge/Editor-CLion-informational?style=flat&logo=intellij-idea&logoColor=white&color=blue)
+![](https://img.shields.io/badge/Editor-IntelliJ_IDEA-informational?style=flat&logo=intellij-idea&logoColor=white&color=blue)
+![](https://img.shields.io/badge/Code-C-informational?style=flat&logo=c&logoColor=white&color=blue)
+![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=blue)
+![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&logoColor=white&color=blue)
+![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=blue)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=savoiadiego&show_icons=true&count_private=true&theme=react" alt="Diego's GitHub Stats" />
+
+*Notice that I usually keep my repositories private, since they are about projects that I cannot share publicly.*
